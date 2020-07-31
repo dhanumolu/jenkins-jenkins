@@ -12,7 +12,8 @@ credentials:2.3.12
 dependency-check-jenkins-plugin:5.1.1
 display-url-api:2.3.3
 durable-task:1.34
-git-client:3.3.1
+echarts-api:4.8.0-2
+git-client:3.3.2
 git-server:1.9
 git:4.3.0
 handlebars:1.1.1
@@ -20,11 +21,13 @@ jackson2-api:2.11.1
 jacoco:3.0.7
 jdk-tool:1.4
 jquery-detached:1.2.1
+jquery3-api:3.5.1-1
 jsch:0.1.55.2
-junit:1.29
+junit:1.30
 kubernetes-client-api:4.9.2-2
 kubernetes-credentials:0.7.0
 kubernetes:1.26.4
+ldap:1.24
 lockable-resources:2.8
 mailer:1.32
 matrix-project:1.17
@@ -41,6 +44,7 @@ pipeline-stage-step:2.5
 pipeline-stage-tags-metadata:1.7.1
 pipeline-stage-view:2.13
 plain-credentials:1.7
+plugin-util-api:1.2.2
 scm-api:2.6.3
 script-security:1.74
 snakeyaml-api:1.26.4
@@ -54,7 +58,7 @@ workflow-aggregator:2.6
 workflow-api:2.40
 workflow-basic-steps:2.20
 workflow-cps-global-lib:2.17
-workflow-cps:2.81
+workflow-cps:2.82
 workflow-durable-task-step:2.35
 workflow-job:2.39
 workflow-multibranch:2.21
