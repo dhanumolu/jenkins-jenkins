@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.260-alpine
+FROM jenkins/jenkins:2.262-alpine
 
 COPY ./scripts /opt/scripts
 
