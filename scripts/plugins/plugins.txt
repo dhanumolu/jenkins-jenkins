@@ -5,6 +5,7 @@ authentication-tokens:1.4
 bootstrap4-api:4.5.3-1
 bouncycastle-api:2.18
 branch-api:2.6.0
+build-blocker-plugin:1.7.3
 checks-api:1.1.0
 cloudbees-folder:6.14
 command-launcher:1.5
