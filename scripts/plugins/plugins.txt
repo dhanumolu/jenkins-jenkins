@@ -5,7 +5,7 @@ authentication-tokens:1.4
 bootstrap4-api:4.5.3-1
 bouncycastle-api:2.18
 branch-api:2.6.0
-checks-api:1.0.3
+checks-api:1.1.0
 cloudbees-folder:6.14
 command-launcher:1.5
 configuration-as-code:1.45
@@ -35,6 +35,7 @@ kubernetes:1.27.3
 ldap:1.26
 lockable-resources:2.10
 mailer:1.32.1
+matrix-auth:2.6.4
 matrix-project:1.18
 momentjs:1.1.1
 pipeline-build-step:2.13
@@ -51,6 +52,7 @@ pipeline-stage-view:2.18
 plain-credentials:1.7
 plugin-util-api:1.4.0
 popper-api:1.16.0-7
+role-strategy:3.1
 scm-api:2.6.4
 script-security:1.75
 snakeyaml-api:1.27.0
