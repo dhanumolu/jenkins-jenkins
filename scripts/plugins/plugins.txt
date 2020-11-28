@@ -18,7 +18,7 @@ dependency-check-jenkins-plugin:5.1.1
 display-url-api:2.3.4
 durable-task:1.35
 echarts-api:4.9.0-2
-email-ext:2.79
+email-ext:2.80
 font-awesome-api:5.15.1-1
 git-client:3.5.1
 git-server:1.9
@@ -54,8 +54,9 @@ pipeline-stage-step:2.5
 pipeline-stage-tags-metadata:1.7.2
 pipeline-stage-view:2.19
 plain-credentials:1.7
-plugin-util-api:1.4.0
+plugin-util-api:1.5.0
 popper-api:1.16.0-7
+rebuild:1.31
 role-strategy:3.1
 scm-api:2.6.4
 script-security:1.75
