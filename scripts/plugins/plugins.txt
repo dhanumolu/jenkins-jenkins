@@ -14,6 +14,7 @@ configuration-as-code:1.46
 config-file-provider:3.7.0
 credentials-binding:1.24
 credentials:2.3.14
+dashboard-view:2.14
 dependency-check-jenkins-plugin:5.1.1
 display-url-api:2.3.4
 durable-task:1.35
